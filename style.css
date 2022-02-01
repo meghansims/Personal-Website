@@ -1,27 +1,27 @@
-/*Header Styling*/
-.headerWrapper{
-    background-color: #fef4da;
-    line-height: 0;
-}
-
-.headerImg{
-    height: 10vh;
-    text-align: left;
-}
-
 /*Body Styling*/
 body{
     background-color: #adb2b8;
 }
+
+/*Header Styling*/
+header{
+    background-color: #9a9fa5;
+    text-align: center;
+}
+
+.headerLogo{
+    height: 10vh;
+}
     
-.bodyWrapper{
+/* Main Styling*/
+.featureImg{
     text-align: center;
     line-height: 0;
-    box-shadow: 2px 2px 10px 1px darkgrey;
 }
 
 .bodyImg{
     height: 75vh;
     border: 5px solid #9a9fa5;
     border-radius: 8px;
+    box-shadow: 2px 2px 10px 1px darkgrey;
 }
